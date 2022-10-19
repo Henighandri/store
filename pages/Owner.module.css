@@ -1,0 +1,22 @@
+
+  
+  .card {
+    width: 90%;
+    max-width: 25rem;
+    margin: 7rem auto;
+    text-align: center;
+  }
+  
+  .card form {
+    margin-bottom: 1rem;
+  }
+
+  .container{
+    max-width: 1400px;
+    margin: auto;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+  }
